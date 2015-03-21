@@ -29,5 +29,14 @@ For each record in the dataset it is provided:
 -Its activity label.
 -An identifier of the subject who carried out the experiment.
 
+After setting the source directory for the files, read in the following tables :
+-features.txt
+-activity_labels.txt
+-subject_train.txt
+-x_train.txt
+-y_train.txt
+-subject_test.txt
+-x_test.txt
+-y_test.txt
 
 
